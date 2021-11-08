@@ -1,0 +1,18 @@
+{
+  "id": "Метиорит_-500,70,569",
+  "name": "Метиорит",
+  "icon": "waypoint-normal.png",
+  "x": -500,
+  "y": 70,
+  "z": 569,
+  "r": 145,
+  "g": 131,
+  "b": 203,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

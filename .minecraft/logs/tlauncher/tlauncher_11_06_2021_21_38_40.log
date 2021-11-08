@@ -1,0 +1,111 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.82 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 06.11.2021 21:38:41
+Running folder C:\Users\Drt\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 12221 MB RAM
+java path=C:\Users\Drt\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+ NVIDIA GeForce GTX 750, NVIDIA GeForce GTX 750, 7095 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.82&client=6de35532-2556-40ec-b783-47175bd3b128
+[Updater] Request time: 92 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 63 / 148 MB
+Garbage collector completed: 19 / 180 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\Drt\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\Drt\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[Loading] LOADING_WINDOW
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 27 ms.
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[Downloader2] Loaded configuration: good
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+Started! (8817 ms.)
+[Loading] SUCCESS
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 144 ms.
+[TLauncher] show tlauncher!!!
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 58 ms.
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 65 ms.
+[SkinVersionList] Got in 399 ms
+[ExtraVersionList] Got in 528 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 794 ms.
+[OfficialVersionList] Got in 876 ms
+[VersionManager] Versions has been refreshed (1561 ms)
+[Double running] clear time label
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index.html
+local server started
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 27 ms.
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 29 ms.
+[Browser] Initializing...
+Hidden JS exception:
+netscape.javascript.JSException: TypeError: undefined is not an object (evaluating 'page.visibility.hide')
+at com.sun.webkit.dom.JSObject.fwkMakeException(JSObject.java:156)
+at com.sun.webkit.WebPage.twkExecuteScript(Native Method)
+at com.sun.webkit.WebPage.executeScript(WebPage.java:1529)
+at javafx.scene.web.WebEngine.executeScript(WebEngine.java:1007)
+at org.tlauncher.tlauncher.ui.browser.BrowserPanel.execute(BrowserPanel.java:563)
+at org.tlauncher.tlauncher.ui.browser.BrowserPanel.lambda$block$9(BrowserPanel.java:571)
+at com.sun.javafx.application.PlatformImpl.lambda$null$5(PlatformImpl.java:295)
+at java.security.AccessController.doPrivileged(Native Method)
+at com.sun.javafx.application.PlatformImpl.lambda$runLater$6(PlatformImpl.java:294)
+at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+at com.sun.glass.ui.win.WinApplication.lambda$null$4(WinApplication.java:185)
+at java.lang.Thread.run(Thread.java:748)
+
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index.html during 3
+[Browser@667062961] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+flush now
+saved account Account{displayName=Drt-Dev, userid=Drt-Dev, uuid=e62ebfffa90346518b18d7a28d4d905b, username=Drt-Dev}
+save profiles
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.82&client=6de35532-2556-40ec-b783-47175bd3b128
+[Updater] Request time: 23 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Update:2.83] Set state: DOWNLOADING
+[Update:2.83] dest C:\Users\Drt\AppData\Roaming\.minecraft\TLauncher.exe.update
+[Update:2.83] url: http://repo.tlauncher.org/update/lch/TLauncher-2.83.exe
+[Downloader2] Files in queue 1
+[Downloader2] Starting download 1 files...
+[D#1] >  http://repo.tlauncher.org/update/lch/TLauncher-2.83.exe 
+[Update:2.83] Set state: READY
+[Double running] clear time label
+[Update:2.83] Set state: APPLYING
+[Bootstrapper] choose jvm for restart:C:\Users\Drt\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+Good bye!
+[Double running] clear time label
+flush now

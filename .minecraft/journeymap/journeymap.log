@@ -1,0 +1,116 @@
+[13:39:55] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[13:39:55] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[13:39:56] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.7.1, built with Forge 14.23.5.2768
+Forge: 14.23.5.2855
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=ru_ru, locale=ru_ru
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.7.1, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=2, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Игровое время, sizePercent=30, showDayNight=true, info3Label=Кординаты, showMobs=true, showPets=true, preferredMapType=night, showCompass=true, mobDisplay=Маленький точки, showReticle=true, orientation=Север, systemTimeRealFormat=HH:mm:ss, shape=Окружность, showSelf=true, info4Label=Биом, locationFormat=xzyv, playerDisplay=Маленький точки, showGrid=true, reticleOrientation=Компас, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Вверху справа, info1Label=Пустой, fontScale=2}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.7.1, zoomLevel=0, showPlayers=true, frameAlpha=100, compassFontScale=2, terrainAlpha=100, showEntityNames=true, enabled=true, showPlayerHeading=true, showVillagers=true, info2Label=Игровое время, sizePercent=30, showDayNight=true, info3Label=Кординаты, showMobs=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=Маленький точки, showReticle=true, orientation=Север, systemTimeRealFormat=HH:mm:ss, shape=Прямоугольник, showSelf=true, info4Label=Биом, locationFormat=xzyv, playerDisplay=Маленький точки, showGrid=true, reticleOrientation=Компас, gameTimeRealFormat=HH:mm:ss, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, position=Вверху справа, info1Label=Пустой, fontScale=2}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.7.1, mobDisplay=Маленький точки, zoomLevel=0, showPlayers=true, showSelf=true, locationFormat=xzyv, playerDisplay=Маленький точки, showGrid=true, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=true, showKeys=true, showWaypointLabels=true, locationFormatVerbose=true, showMobs=true, showPets=true, fontScale=2, preferredMapType=day}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.7.1, autoRemoveDeathpointDistance=2, createDeathpoints=true, showName=true, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, maxDistance=0, autoHideLabel=true, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, minDistance=4, timeFormat=HH:mm:ss, boldLabel=false, textureSmall=true, showDeathpointlabel=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.7.1, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, preferredMapType=day}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=5.7.1, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Окружность, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.7.1, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
+[13:39:56] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[13:39:56] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[13:39:56] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[13:40:05] [Client thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[13:40:05] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.KeyEventHandler
+[13:40:05] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.ChatEventHandler
+[13:40:05] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.StateTickHandler
+[13:40:05] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WorldEventHandler
+[13:40:05] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.WaypointBeaconHandler
+[13:40:05] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.TextureAtlasHandler
+[13:40:05] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.MiniMapOverlayHandler
+[13:40:05] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.forge.event.PlayerConnectHandler
+[13:40:05] [Client thread/DEBUG] [EventHandlerManager] Handler registered: journeymap.client.world.ChunkMonitor
+[13:40:05] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[13:40:05] [Client thread/TRACE] [ThemeLoader] Initializing themes ...
+[13:40:06] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[13:40:06] [Client thread/DEBUG] [StatTimer] elapsed was slow: 1157.4917
+[13:40:06] [Client thread/DEBUG] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r§r1157.49§8ms§r
+[13:40:56] [Client thread/INFO] [WaypointStore] Loaded 35 waypoints from C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\waypoints
+[13:40:57] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM0. Memory: 10176MB total, 8223MB free 
+[13:40:57] [Client thread/INFO] [ChatLog] JourneyMap: Нажмите [J].
+[13:42:12] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1691, y=65, z=72}. Deathpoints enabled: true. Deathpoint created: true
+[13:42:12] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture was slow: 50.2876 (Warning limit reached)
+[13:42:12] [Client thread/WARN] [StatTimer] TileDrawStep.updateRegionTexture: Avg:     0.08ms, Min:        0ms, Max:     320.77ms, Total:          1 sec, Count:    16576, Canceled:        0, Slow:       10
+[13:42:35] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1687, y=65, z=67}. Deathpoints enabled: true. Deathpoint created: true
+[13:53:06] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1656, y=50, z=65}. Deathpoints enabled: true. Deathpoint created: true
+[13:53:25] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1646, y=44, z=61}. Deathpoints enabled: true. Deathpoint created: true
+[13:54:56] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1652, y=23, z=59}. Deathpoints enabled: true. Deathpoint created: true
+[13:55:07] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1656, y=22, z=59}. Deathpoints enabled: true. Deathpoint created: true
+[13:57:04] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1652, y=23, z=56}. Deathpoints enabled: true. Deathpoint created: true
+[13:58:34] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1652, y=29, z=47}. Deathpoints enabled: true. Deathpoint created: true
+[14:01:34] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1644, y=20, z=26}. Deathpoints enabled: true. Deathpoint created: true
+[14:04:22] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1661, y=9, z=25}. Deathpoints enabled: true. Deathpoint created: true
+[14:07:35] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1655, y=23, z=52}. Deathpoints enabled: true. Deathpoint created: true
+[14:13:20] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1688, y=65, z=66}. Deathpoints enabled: true. Deathpoint created: true
+[14:14:38] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1681, y=68, z=74}. Deathpoints enabled: true. Deathpoint created: true
+[14:15:17] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1683, y=65, z=64}. Deathpoints enabled: true. Deathpoint created: true
+[14:17:19] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1674, y=65, z=65}. Deathpoints enabled: true. Deathpoint created: true
+[14:18:40] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1686, y=65, z=66}. Deathpoints enabled: true. Deathpoint created: true
+[14:20:06] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1683, y=64, z=51}. Deathpoints enabled: true. Deathpoint created: true
+[14:22:39] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp -1669.5 11 16.5 0
+[14:22:47] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp -1524.5 78 -296.5 0
+[14:22:59] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp -1690.5 65 68.5 0
+[14:24:48] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp -1690.5 65 68.5 0
+[14:28:21] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1674, y=65, z=66}. Deathpoints enabled: true. Deathpoint created: true
+[14:30:24] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM0
+[14:30:34] [Client thread/INFO] [WaypointStore] Loaded 26 waypoints from C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\waypoints
+[14:30:34] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM7. Memory: 9440MB total, 6751MB free 
+[14:31:14] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM7
+[14:31:16] [Client thread/INFO] [WaypointStore] Loaded 26 waypoints from C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\waypoints
+[14:31:16] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM0. Memory: 11808MB total, 8835MB free 
+[14:40:59] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp 700.5 65 -499.5 0
+[14:44:24] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=769, y=64, z=-506}. Deathpoints enabled: true. Deathpoint created: true
+[15:07:54] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1641, y=9, z=43}. Deathpoints enabled: true. Deathpoint created: true
+[15:10:47] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp -2456.5 104 83.5 0
+[15:10:50] [JM-task-10/WARN] [SurfaceRenderer] java.lang.NullPointerException
+	at journeymap.client.cartography.render.SurfaceRenderer.paintStrata(SurfaceRenderer.java:368)
+	at journeymap.client.cartography.render.SurfaceRenderer.renderSurface(SurfaceRenderer.java:190)
+	at journeymap.client.cartography.render.SurfaceRenderer.render(SurfaceRenderer.java:113)
+	at journeymap.client.cartography.render.SurfaceRenderer.render(SurfaceRenderer.java:86)
+	at journeymap.client.cartography.ChunkRenderController.renderChunk(ChunkRenderController.java:140)
+	at journeymap.client.task.multi.BaseMapTask.performTask(BaseMapTask.java:122)
+	at journeymap.client.task.multi.TaskBatch.performTask(TaskBatch.java:72)
+	at journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch.performTask(MapPlayerTask.java:416)
+	at journeymap.client.thread.RunnableTask$Inner.run(RunnableTask.java:78)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+[15:11:29] [Client thread/INFO] [CmdTeleportWaypoint] Attempting jtp teleport with command: /jtp -2456.5 104 83.5 0
+[15:32:02] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[15:32:03] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[16:02:25] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1638, y=19, z=16}. Deathpoints enabled: true. Deathpoint created: true
+[16:07:05] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM0
+[16:07:13] [Client thread/INFO] [WaypointStore] Loaded 29 waypoints from C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\waypoints
+[16:07:13] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM7. Memory: 10272MB total, 7914MB free 
+[16:07:15] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM7
+[16:07:16] [Client thread/INFO] [WaypointStore] Loaded 29 waypoints from C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\waypoints
+[16:07:16] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM0. Memory: 11616MB total, 9210MB free 
+[16:07:17] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM0
+[16:07:19] [Client thread/INFO] [WaypointStore] Loaded 29 waypoints from C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\waypoints
+[16:07:19] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM7. Memory: 11616MB total, 9097MB free 
+[16:07:19] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM7
+[16:07:25] [Client thread/INFO] [WaypointStore] Loaded 29 waypoints from C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\waypoints
+[16:07:25] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM0. Memory: 10080MB total, 7878MB free 
+[16:20:04] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1661, y=4, z=67}. Deathpoints enabled: true. Deathpoint created: true
+[16:20:24] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1654, y=23, z=62}. Deathpoints enabled: true. Deathpoint created: true
+[16:20:42] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1657, y=23, z=55}. Deathpoints enabled: true. Deathpoint created: true
+[16:37:16] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1688, y=69, z=70}. Deathpoints enabled: true. Deathpoint created: true
+[16:43:16] [Client thread/INFO] [StateTickHandler] Drt-Dev died at BlockPos{x=-1663, y=64, z=70}. Deathpoints enabled: true. Deathpoint created: true
+[16:46:24] [Client thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[16:46:25] [Client thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[16:47:35] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Drt\AppData\Roaming\.minecraft\journeymap\data\sp\___\DIM0

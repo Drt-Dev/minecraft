@@ -1,0 +1,338 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.83 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 07.11.2021 13:35:06
+Running folder C:\Users\Drt\AppData\Roaming\.minecraft
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 12221 MB RAM
+java path=C:\Users\Drt\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+ NVIDIA GeForce GTX 750, NVIDIA GeForce GTX 750, 7095 MB
+-------------------------------------------------------
+Selected locale: ru_RU
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: http://repo.tlauncher.org/update/lch/update_2.0.json?version=2.83&client=6de35532-2556-40ec-b783-47175bd3b128
+[Updater] Request time: 96 ms
+[Updater] Successfully requested from: http://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading resources...
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 57 / 149 MB
+Garbage collector completed: 16 / 189 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\Drt\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\Drt\AppData\Roaming\.minecraft\TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[GsonUtil]  request to http://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[Loading] LOADING_WINDOW
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 25 ms.
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index.html
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[Downloader2] Loaded configuration: good
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index.html during 6
+[Browser@683796827] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index.html"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/
+Started! (18835 ms.)
+[Loading] SUCCESS
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 32 ms.
+[TLauncher] show tlauncher!!!
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 26 ms.
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 31 ms.
+[SkinVersionList] Got in 69 ms
+[ExtraVersionList] Got in 115 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 169 ms.
+[OfficialVersionList] Got in 299 ms
+[VersionManager] Versions has been refreshed (890 ms)
+local server started
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 18 ms.
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: http://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 22 ms.
+[Double running] clear time label
+saved account Account{displayName=Drt-Dev, userid=Drt-Dev, uuid=e62ebfffa90346518b18d7a28d4d905b, username=Drt-Dev}
+save profiles
+onAuthPassed
+saved account Account{displayName=Drt-Dev, userid=Drt-Dev, uuid=e62ebfffa90346518b18d7a28d4d905b, username=Drt-Dev}
+save profiles
+[LoginForm] Login was OK. Trying to launch now.
+[Launcher] Running under TLauncher 2.83
+[Launcher] Collecting info...
+[TLauncherManager] before clearLibrary C:\Users\Drt\AppData\Roaming\.minecraft\mods\additionalpipes-4.7.7.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\appliedenergistics2_rv6_stable_7.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\backpack_3.0.2_1.12.2.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\BattleTowers_1.12.2.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\BetterBuildersWands_1.12.2_0.13.1.26913450ff.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\BrandonsCore-1.12.2-2.4.19.214-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\buildcraft_all_7.99.24.8_1.12.2.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\CodeChickenLib-1.12.2-3.2.3.358-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\desktop.ini C:\Users\Drt\AppData\Roaming\.minecraft\mods\DivineRPG_1.12.2_1.7.1.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Draconic-Evolution-1.12.2-2.3.27.353-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Draconic_Evolution_1.12.2_2.3.27.353_universal.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\EnderCore-1.12.2-0.5.76.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\EnderIO-1.12.2-5.3.70.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\EnderIO-1.12.2-5.3.70.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\forestry_1.12.2_5.8.2.414.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Galacticraft-Planets-1.12.2-4.0.2.281.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\GalacticraftCore-1.12.2-4.0.2.281.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Galacticraft_1.12.2_4.0.2.281.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.8.188-ex112.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\ironchest_1.12.2_7.0.72.847.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\jei_1.12.2-4.16.1.302.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\journeymap-1.12.2-5.7.1.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\LuckyBlock_1_12_v7_5_0.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\Mantle-1.12-1.3.3.55.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\MicdoodleCore-1.12.2-4.0.2.281.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\OptiFine-OptiFine-1.12.2_HD_U_G5.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\RedstoneFlux-1.12-2.1.0.6-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\TConstruct-1.12.2-2.13.0.183.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\TConstruct_1.12.2_2.13.0.183.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\thuttech_1.12.2_6.1.5.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\treecapitator-mod-1_12.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\twilightforest_1.12.2_3.11.1021_universal.jar
+[TLauncherManager] written:  []
+[TLauncherManager] after clearLibrary C:\Users\Drt\AppData\Roaming\.minecraft\mods\additionalpipes-4.7.7.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\appliedenergistics2_rv6_stable_7.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\backpack_3.0.2_1.12.2.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\BattleTowers_1.12.2.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\BetterBuildersWands_1.12.2_0.13.1.26913450ff.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\BrandonsCore-1.12.2-2.4.19.214-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\buildcraft_all_7.99.24.8_1.12.2.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\CodeChickenLib-1.12.2-3.2.3.358-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\desktop.ini C:\Users\Drt\AppData\Roaming\.minecraft\mods\DivineRPG_1.12.2_1.7.1.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Draconic-Evolution-1.12.2-2.3.27.353-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Draconic_Evolution_1.12.2_2.3.27.353_universal.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\EnderCore-1.12.2-0.5.76.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\EnderIO-1.12.2-5.3.70.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\EnderIO-1.12.2-5.3.70.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\forestry_1.12.2_5.8.2.414.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Galacticraft-Planets-1.12.2-4.0.2.281.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\GalacticraftCore-1.12.2-4.0.2.281.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Galacticraft_1.12.2_4.0.2.281.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.8.188-ex112.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\ironchest_1.12.2_7.0.72.847.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\jei_1.12.2-4.16.1.302.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\journeymap-1.12.2-5.7.1.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\LuckyBlock_1_12_v7_5_0.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\Mantle-1.12-1.3.3.55.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\MicdoodleCore-1.12.2-4.0.2.281.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\RedstoneFlux-1.12-2.1.0.6-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\TConstruct-1.12.2-2.13.0.183.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\TConstruct_1.12.2_2.13.0.183.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\thuttech_1.12.2_6.1.5.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\treecapitator-mod-1_12.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\twilightforest_1.12.2_3.11.1021_universal.jar
+[Launcher] Force update: false
+[Launcher] Selected version: ForgeOptiFine 1.12.2
+[Launcher] Selected account: Account{displayName=Drt-Dev, userid=Drt-Dev, uuid=e62ebfffa90346518b18d7a28d4d905b, username=Drt-Dev}
+[Launcher] Version sync info: VersionSyncInfo{id='ForgeOptiFine 1.12.2',
+local=CompleteVersion{id='ForgeOptiFine 1.12.2', time=Mon Sep 18 04:39:50 MSK 2017, release=Mon Sep 18 04:39:50 MSK 2017, type=modified, class=net.minecraft.launchwrapper.Launch, minimumVersion=18, assets='1.12', source=LOCAL_VERSION_REPO, list=net.minecraft.launcher.updater.SkinVersionList@942160b, libraries=[Library{name='net.minecraftforge:forge:1.12.2-14.23.5.2855', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.ow2.asm:asm-debug-all:5.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.minecraft:launchwrapper:1.12', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.jline:jline:3.5.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.typesafe.akka:akka-actor_2.11:2.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.typesafe:config:1.2.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-actors-migration_2.11:1.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-compiler:2.11.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-library:2.11.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-parser-combinators_2.11:1.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-reflect:2.11.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-swing_2.11:1.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.scala-lang:scala-xml_2.11:1.0.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='lzma:lzma:0.0.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='java3d:vecmath:1.5.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.trove4j:trove4j:3.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.maven:maven-artifact:3.5.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:patchy:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='oshi-project:oshi-core:1.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:jna:4.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.dev.jna:platform:3.4.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.sf.jopt-simple:jopt-simple:5.0.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null, packed='null'}, Library{name='io.netty:netty-all:4.1.9.Final', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.guava:guava:21.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-lang3:3.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-io:commons-io:2.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-codec:commons-codec:1.10', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null, packed='null'}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.google.code.gson:gson:2.8.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:authlib:1.5.25', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:realms:1.10.22', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.commons:commons-compress:1.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpclient:4.3.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='commons-logging:commons-logging:1.1.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.httpcomponents:httpcore:4.3.2', rules=null, natives=null, extract=null, packed='null'}, Library{name='it.unimi.dsi:fastutil:7.1.0', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-api:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.apache.logging.log4j:log4j-core:2.8.1', rules=null, natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209', rules=[Rule{action=ALLOW, os=null, features=null}, Rule{action=DISALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@6065c620, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.2-nightly-20140822', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@7a51a040, packed='null'}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, OSX=natives-osx, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@4ac04796, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives=null, extract=null, packed='null'}, Library{name='com.mojang:text2speech:1.10.3', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows}, extract=net.minecraft.launcher.versions.ExtractRules@532bf28b, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives={OSX=natives-osx}, extract=net.minecraft.launcher.versions.ExtractRules@1d316a08, packed='null'}, Library{name='ca.weblite:java-objc-bridge:1.0.0', rules=[Rule{action=ALLOW, os=OSRestriction{name=OSX, version='null'}, features=null}], natives=null, extract=null, packed='null'}]},
+remote=PartialVersion{id='ForgeOptiFine 1.12.2', time=Mon Sep 18 04:39:50 MSK 2017, release=Mon Sep 18 04:39:50 MSK 2017, type=modified, source=SKIN_VERSION_REPO, list=net.minecraft.launcher.updater.SkinVersionList@942160b}, isInstalled=true, hasRemote=true, isUpToDate=true}
+[GsonUtil]  request to https://res.tlauncher.org/b/jvm/java_configuration.json
+[Launcher] Checking conditions...
+[Launcher] resourcepacks:Better Minecraft Pack 1.12.zip
+[Launcher] Cleaning up old assets directory C:\Users\Drt\AppData\Roaming\.minecraft\assets\galacticraftMaps\ after migration
+[Launcher] Comparing assets...
+[AssetsManager] Checking resources...
+[AssetsManager] Reading indexes from file C:\Users\Drt\AppData\Roaming\.minecraft\assets\indexes\1.12.json
+[AssetsManager] Fast comparing: true
+[Launcher] finished comparing assets: 2704 ms.
+[TLauncherManager] add required libraries: ForgeOptiFine 1.12.2
+[VersionManager] Required for version ForgeOptiFine 1.12.2: []
+[TLauncherManager] add required libraries: ForgeOptiFine 1.12.2
+[REPO][EMPTY] Attempt #1; timeout: 20000 ms; url: 
+[REPO][EMPTY] Success: Reached the repo in 138 ms.
+Minecraft requires java version: 8, java path: C:\Users\Drt\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe
+[TLauncherManager] library will be replaced: com.mojang:authlib:1.5.25
+[TLauncherManager] library will be replaced: com.mojang:patchy:1.1
+[Launcher] Unpacking natives...
+[Launcher] Constructing process...
+[Launcher] Constructing classpath...
+[Launcher] Getting Minecraft arguments...
+[Launcher] Full command: C:\Users\Drt\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy\bin\javaw.exe -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=C:\Users\Drt\AppData\Roaming\.minecraft\versions\ForgeOptiFine 1.12.2\natives -cp C:\Users\Drt\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.12.2-14.23.5.2855\forge-1.12.2-14.23.5.2855.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-debug-all\5.2\asm-debug-all-5.2.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\jline\jline\3.5.1\jline-3.5.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2_mc\scala-continuations-library_2.11-1.0.2_mc.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2_mc\scala-continuations-plugin_2.11.1-1.0.2_mc.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\apache\maven\maven-artifact\3.5.3\maven-artifact-3.5.3.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\tlauncher\patchy\1.1\patchy-1.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.9.Final\netty-all-4.1.9.Final.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\tlauncher\authlib\1.6.25\authlib-1.6.25.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\7.1.0\fastutil-7.1.0.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\Drt\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar;C:\Users\Drt\AppData\Roaming\.minecraft\versions\ForgeOptiFine 1.12.2\ForgeOptiFine 1.12.2.jar -Xmn128M -Xmx12217M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.net.preferIPv4Stack=true -Dminecraft.applet.TargetDirectory=C:\Users\Drt\AppData\Roaming\.minecraft net.minecraft.launchwrapper.Launch --username Drt-Dev --version ForgeOptiFine 1.12.2 --gameDir C:\Users\Drt\AppData\Roaming\.minecraft --assetsDir C:\Users\Drt\AppData\Roaming\.minecraft\assets --assetIndex 1.12 --uuid e62ebfffa90346518b18d7a28d4d905b --accessToken null --userType mojang --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge --width 925 --height 530
+[Launcher] Launching Minecraft...
+I'm hiding!
+[TLauncherManager] mods after C:\Users\Drt\AppData\Roaming\.minecraft\mods\additionalpipes-4.7.7.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\appliedenergistics2_rv6_stable_7.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\backpack_3.0.2_1.12.2.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\BattleTowers_1.12.2.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\BetterBuildersWands_1.12.2_0.13.1.26913450ff.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\BrandonsCore-1.12.2-2.4.19.214-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\buildcraft_all_7.99.24.8_1.12.2.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\CodeChickenLib-1.12.2-3.2.3.358-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\desktop.ini C:\Users\Drt\AppData\Roaming\.minecraft\mods\DivineRPG_1.12.2_1.7.1.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Draconic-Evolution-1.12.2-2.3.27.353-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Draconic_Evolution_1.12.2_2.3.27.353_universal.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\EnderCore-1.12.2-0.5.76.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\EnderIO-1.12.2-5.3.70.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\EnderIO-1.12.2-5.3.70.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\forestry_1.12.2_5.8.2.414.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Galacticraft-Planets-1.12.2-4.0.2.281.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\GalacticraftCore-1.12.2-4.0.2.281.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\Galacticraft_1.12.2_4.0.2.281.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\industrialcraft-2-2.8.188-ex112.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\ironchest_1.12.2_7.0.72.847.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\jei_1.12.2-4.16.1.302.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\journeymap-1.12.2-5.7.1.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\LuckyBlock_1_12_v7_5_0.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\Mantle-1.12-1.3.3.55.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\MicdoodleCore-1.12.2-4.0.2.281.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\OptiFine-OptiFine-1.12.2_HD_U_G5.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\RedstoneFlux-1.12-2.1.0.6-universal.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\TConstruct-1.12.2-2.13.0.183.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\TConstruct_1.12.2_2.13.0.183.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\thuttech_1.12.2_6.1.5.zip C:\Users\Drt\AppData\Roaming\.minecraft\mods\tlskincape_1.12.2-1.4.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\treecapitator-mod-1_12.jar C:\Users\Drt\AppData\Roaming\.minecraft\mods\twilightforest_1.12.2_3.11.1021_universal.jar
+[InnerMinecraftServersImpl]  search changers of the servers
+read servers from servers.dat [Server(name=SkyCave.ru, address=mc.skycave.ru:25565, ip=mc.skycave.ru, port=25565, hideAddress=true, acceptTextures=1), Server(name=MusteryWorld.ru, address=mc.musteryworld.ru:25565, ip=mc.musteryworld.ru, port=25565, hideAddress=true, acceptTextures=1), Server(name=MasedWorld.net, address=mc.masedworld.net:25565, ip=mc.masedworld.net, port=25565, hideAddress=true, acceptTextures=1), Server(name=DexLand.ru, address=mc.dexland.su:25565, ip=mc.dexland.su, port=25565, hideAddress=true, acceptTextures=1)]
+[InnerMinecraftServersImpl]  prepare inner servers
+save servers to servers.dat
+[Launcher] Starting Minecraft ForgeOptiFine 1.12.2...
+[Launcher] Launching in: C:\Users\Drt\AppData\Roaming\.minecraft
+Starting garbage collector: 201 / 280 MB
+Garbage collector completed: 41 / 280 MB
+[Launcher] Processing post-launch actions. Assist launch: false
+===============================================================================================
+2021-11-07 13:37:52,013 main ERROR Error processing element Queue ([Appenders: null]): CLASS_NOT_FOUND
+2021-11-07 13:37:52,130 main ERROR Unable to locate appender "ServerGuiConsole" for logger config "root"
+[13:37:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:37:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:37:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:37:52] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
+[13:37:52] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Drt\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy
+[13:37:55] [main/INFO] [FML]: Searching C:\Users\Drt\AppData\Roaming\.minecraft\mods for mods
+[13:37:55] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:37:55] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[13:37:55] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[13:37:55] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in tlskincape_1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+2021-11-07 13:37:55,462 main ERROR Error processing element Queue ([Appenders: null]): CLASS_NOT_FOUND
+2021-11-07 13:37:55,470 main ERROR Unable to locate appender "ServerGuiConsole" for logger config "root"
+[13:37:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:37:55] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[13:37:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:37:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:37:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:37:55] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[13:37:55] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[13:37:55] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[13:37:55] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[13:37:55] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\Drt\AppData\Roaming\.minecraft\mods\OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[13:37:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:37:57] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:37:57] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[13:37:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:37:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:37:57] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[13:37:57] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[13:37:57] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[13:37:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:37:57] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+[13:37:57] [main/INFO] [FML]: [HOOKLIB]  Obfuscated: true
+[13:37:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
+[13:37:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:37:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[13:37:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[13:37:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 5 ms
+[13:37:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:37:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:37:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:37:58] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[13:37:58] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:37:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
+[13:37:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;)
+[13:37:58] [main/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[13:37:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
+[13:37:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationSkin()Lnet/minecraft/util/ResourceLocation;
+[13:37:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationCape()Lnet/minecraft/util/ResourceLocation;
+[13:37:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getSkinType()
+[13:37:59] [Client thread/INFO] [minecraft/Minecraft]: Setting user: Drt-Dev
+[13:38:01] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.entity.item.EntityItemFrame], Method [func_184230_a]
+[13:38:01] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.item.EntityItemFrame Finished.
+[13:38:02] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.entity.ai.EntityAICreeperSwell], Method [func_75246_d]
+[13:38:02] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.entity.ai.EntityAICreeperSwell Finished.
+[13:38:02] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[13:38:02] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[13:38:02] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Forge ***
+[13:38:03] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Vanilla ***
+[13:38:03] [Client thread/WARN] [minecraft/GameSettings]: Skipping bad option: lastServer:
+[13:38:03] [Client thread/INFO] [minecraft/Minecraft]: LWJGL Version: 2.9.4
+[13:38:03] [Client thread/INFO] [Config]: [OptiFine] 
+[13:38:03] [Client thread/INFO] [Config]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[13:38:03] [Client thread/INFO] [Config]: [OptiFine] Build: 20210124-142939
+[13:38:03] [Client thread/INFO] [Config]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[13:38:03] [Client thread/INFO] [Config]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[13:38:03] [Client thread/INFO] [Config]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[13:38:03] [Client thread/INFO] [Config]: [OptiFine] LWJGL: 2.9.4
+[13:38:03] [Client thread/INFO] [Config]: [OptiFine] OpenGL: NVIDIA GeForce GTX 750/PCIe/SSE2, version 4.6.0 NVIDIA 466.27, NVIDIA Corporation
+[13:38:03] [Client thread/INFO] [Config]: [OptiFine] OpenGL Version: 4.6.0
+[13:38:03] [Client thread/INFO] [Config]: [OptiFine] Maximum texture size: 16384x16384
+[13:38:03] [VersionCheck/INFO] [Config]: [OptiFine] Checking for new version
+[13:38:04] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 466.27
+[13:38:04] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Vendor:  NVIDIA Corporation
+[13:38:04] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Renderer: NVIDIA GeForce GTX 750/PCIe/SSE2
+[13:38:04] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[13:38:04] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[13:38:04] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[13:38:04] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[13:38:04] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Load shaders configuration.
+[13:38:04] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Save shaders configuration.
+[13:38:04] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] No shaderpack loaded.
+[13:38:04] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[13:38:04] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[13:38:04] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[13:38:04] [VersionCheck/INFO] [Config]: [OptiFine] Version found: G5
+[13:38:04] [Client thread/INFO] [FML]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_G5, enabling compatibility features
+[13:38:04] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 135497472 bytes (129 MB) / 335544320 bytes (320 MB) up to 12817793024 bytes (12224 MB)
+	JVM Flags: 8 total; -Xmn128M -Xmx12217M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+EnderCorePlugin (EnderCore-1.12.2-0.5.76-core.jar)
+  com.enderio.core.common.transform.EnderCoreTransformer
+  com.enderio.core.common.transform.SimpleMixinPatcher
+MicdoodlePlugin (MicdoodleCore-1.12.2-4.0.2.281.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+TLSkinCapeHookLoader (tlskincape_1.12.2-1.4.jar)
+  gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 466.27' Renderer: 'NVIDIA GeForce GTX 750/PCIe/SSE2'
+[13:38:04] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2855 Initialized
+[13:38:04] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[13:38:04] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[13:38:04] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[13:38:04] [Client thread/INFO] [FML]: Searching C:\Users\Drt\AppData\Roaming\.minecraft\mods for mods
+[13:38:06] [Client thread/WARN] [FML]: Mod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.13.1
+[13:38:06] [Client thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[13:38:08] [Client thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[13:38:08] [Thread-3/INFO] [FML]: Using alternative sync timing : 200 frames of Display.update took 3243703600 nanos
+[13:38:08] [Client thread/INFO] [FML]: Forge Mod Loader has identified 50 mods to load
+[13:38:09] [Client thread/INFO] [FML]: FML has found a non-mod file additionalpipes-4.7.7.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:38:09] [Client thread/INFO] [FML]: FML has found a non-mod file Draconic_Evolution_1.12.2_2.3.27.353_universal.zip in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:38:09] [Client thread/INFO] [FML]: FML has found a non-mod file EnderIO-1.12.2-5.3.70.zip in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:38:09] [Client thread/INFO] [FML]: FML has found a non-mod file Galacticraft_1.12.2_4.0.2.281.zip in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:38:09] [Client thread/INFO] [FML]: FML has found a non-mod file TConstruct_1.12.2_2.13.0.183.zip in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:38:09] [Client thread/INFO] [FML]: FML has found a non-mod file thuttech_1.12.2_6.1.5.zip in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:38:09] [Client thread/INFO] [FML]: FML has found a non-mod file AutoSave-1.12.2-1.0.11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:38:09] [Client thread/INFO] [FML]: FML has found a non-mod file AutoConfig-1.12.2-1.0.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[13:38:09] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, appliedenergistics2, backpack, battletowers, betterbuilderswands, brandonscore, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, codechickenlib, divinerpg, draconicevolution, endercore, enderio, enderiobase, enderioconduitsappliedenergistics, enderioconduitsopencomputers, enderioconduitsrefinedstorage, enderioconduits, enderiointegrationforestry, enderiointegrationtic, enderiointegrationticlate, enderioinvpanel, enderiomachines, enderiopowertools, forestry, galacticraftplanets, galacticraftcore, ic2, ironchest, jei, journeymap, lucky, mantle, redstoneflux, tconstruct, tlauncher_custom_cape_skin, bspkrscore, treecapitator, twilightforest] at CLIENT
+[13:38:09] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, appliedenergistics2, backpack, battletowers, betterbuilderswands, brandonscore, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, codechickenlib, divinerpg, draconicevolution, endercore, enderio, enderiobase, enderioconduitsappliedenergistics, enderioconduitsopencomputers, enderioconduitsrefinedstorage, enderioconduits, enderiointegrationforestry, enderiointegrationtic, enderiointegrationticlate, enderioinvpanel, enderiomachines, enderiopowertools, forestry, galacticraftplanets, galacticraftcore, ic2, ironchest, jei, journeymap, lucky, mantle, redstoneflux, tconstruct, tlauncher_custom_cape_skin, bspkrscore, treecapitator, twilightforest] at SERVER
+[13:38:10] [Client thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack_3.0.2_1.12.2.jar, however there is no signature matching that description
+[13:38:10] [Client thread/INFO] [brandonscore]: Brandon's Core online! Waiting for Draconic Evolution to join the party....
+[13:38:10] [Client thread/INFO] [draconicevolution]: Draconic Evolution online!
+[13:38:10] [Client thread/INFO] [brandonscore]: Hay! There you are! Now lets destroy some worlds!!
+[13:38:10] [Client thread/INFO] [draconicevolution]: Sounds like fun! Lets get to it!
+[13:38:13] [Client thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[13:38:13] [Client thread/INFO] [draconicevolution]: Hello Minecraft!!!
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.integration.thaumcraft.ThaumcraftArmorMixin
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Skipping mixin due to missing dependencies: [thaumcraft]
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.item.darksteel.upgrade.DarkSteelUpgradeMixin
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.power.forge.item.InternalPoweredItemMixin
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.item.darksteel.upgrade.DarkSteelUpgradeMixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.api.upgrades.IDarkSteelItem
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.paint.MobilityFlagForPaintedBlocksMixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.base.power.forge.item.InternalPoweredItemMixin.
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.power.forge.item.IInternalPoweredItem
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$INonSolidBlockPaintableBlock
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$IBlockPaintableBlock
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$ISolidBlockPaintableBlock
+[13:38:13] [Client thread/INFO] [EnderCore Mixins]: Found interface target crazypants.enderio.base.paint.IPaintable$ITexturePaintableBlock
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelCrook from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelCrook (DarkSteelUpgradeMixin)
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Successfully patched.
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemInventoryCharger from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Patching 1 mixins onto class crazypants.enderio.base.item.darksteel.ItemInventoryCharger (DarkSteelUpgradeMixin)
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Added 3 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, getAttributeModifiers(Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/item/ItemStack;)Lcom/google/common/collect/Multimap;, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Successfully patched.
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.conduit.me.conduit.MEMixin
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.conduit.me.conduit.MEMixin.
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Patching 1 mixins onto class crazypants.enderio.conduits.conduit.TileConduitBundle (MEMixin)
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Added 1 new interface: [appeng/api/networking/IGridHost]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Added 3 new methods: [getGridNode(Lappeng/api/util/AEPartLocation;)Lappeng/api/networking/IGridNode;, getCableConnectionType(Lappeng/api/util/AEPartLocation;)Lappeng/api/util/AECableType;, securityBreak()V]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Successfully patched.
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.conduit.oc.conduit.OCMixin
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Skipping mixin due to missing dependencies: [opencomputersapi|network]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Found annotation mixin: crazypants.enderio.integration.forestry.upgrades.ArmorMixin
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Registered mixin.
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Found mixin source class data for crazypants.enderio.integration.forestry.upgrades.ArmorMixin.
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Found 1 patch to apply to class crazypants.enderio.integration.forestry.upgrades.ArmorMixin from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Not mixing into class crazypants.enderio.integration.forestry.upgrades.ArmorMixin because it is itself a mixin
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Found 1 patch to apply to class crazypants.enderio.base.item.darksteel.ItemDarkSteelArmor from implemented interfaces: [crazypants/enderio/api/upgrades/IDarkSteelItem]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Patching 2 mixins onto class crazypants.enderio.base.item.darksteel.ItemDarkSteelArmor (ArmorMixin, DarkSteelUpgradeMixin)
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Added 2 new interfaces: [forestry/api/apiculture/IArmorApiarist, forestry/api/core/IArmorNaturalist]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Added 2 new methods: [canSeePollination(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/item/ItemStack;Z)Z, protectEntity(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Ljava/lang/String;Z)Z]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Added 4 new methods: [initCapabilities(Lnet/minecraft/item/ItemStack;Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraftforge/common/capabilities/ICapabilityProvider;, addCommonEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, addBasicEntries(Lnet/minecraft/item/ItemStack;Lnet/minecraft/entity/player/EntityPlayer;Ljava/util/List;Z)V, openUpgradeGui(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/inventory/EntityEquipmentSlot;)V]
+[13:38:15] [Client thread/INFO] [EnderCore Mixins]: Successfully patched.
+[13:38:17] [Client thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[13:38:17] [Client thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[13:38:17] [Client thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[13:38:17] [Client thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
+[13:38:17] [Client thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[13:38:17] [Client thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
+[13:38:17] [Client thread/INFO] [tconstruct]: Preparing to take over the world
+[13:38:19] [Client thread/INFO] [minecraft/SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Backpack, FMLFileResourcePack:Battle Towers, FMLFileResourcePack:Better Builder's Wands, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:BuildCraft Compat, FMLFileResourcePack:BuildCraft Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BuildCraft Energy, FMLFileResourcePack:BuildCraft Factory, FMLFileResourcePack:BuildCraft Lib, FMLFileResourcePack:BuildCraft Robotics, FMLFileResourcePack:BuildCraft Silicon, FMLFileResourcePack:BuildCraft Transport, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:DivineRPG, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:Ender IO Base, FMLFileResourcePack:Ender IO Applied Energistics Conduits, FMLFileResourcePack:Ender IO Open Computers Conduits, FMLFileResourcePack:Ender IO Refined Storage Conduits, FMLFileResourcePack:Ender IO Conduits, FMLFileResourcePack:Ender IO Integration with Forestry, FMLFileResourcePack:Ender IO Integration with Tinkers' Construct, FMLFileResourcePack:Ender IO Integration with Tinkers' Construct, FMLFileResourcePack:Ender IO Inventory Panel, FMLFileResourcePack:Ender IO Machines, FMLFileResourcePack:Ender IO Powertools, FMLFileResourcePack:Forestry, FMLFileResourcePack:Galacticraft Planets, FMLFileResourcePack:Galacticraft Core, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Lucky Block, FMLFileResourcePack:Mantle, FMLFileResourcePack:Redstone Flux, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:TLSkinCape, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:The Twilight Forest
+[13:38:19] [Client thread/INFO] [EnderCore ASM]: Transforming Class [net.minecraft.client.renderer.RenderItem], Method [func_180453_a, func_184391_a]
+[13:38:19] [Client thread/INFO] [EnderCore ASM]: Transforming failed. Applying ersatz patch...
+[13:38:19] [Client thread/WARN] [EnderCore ASM]: Ersatz patch applied, things may break!
+[13:38:19] [Client thread/INFO] [EnderCore ASM]: Transforming net.minecraft.client.renderer.RenderItem Finished.
+[13:38:20] [Client thread/INFO] [divinerpg.DivineRPG]: Creating registries
+[13:38:20] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[13:38:20] [Client thread/INFO] [FML]: Found 2708 ObjectHolder annotations
+[13:38:20] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[13:38:20] [Client thread/INFO] [FML]: Found 4 ItemStackHolder annotations
+[13:38:20] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[13:38:20] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+Good bye!
+[Double running] clear time label
+[13:38:20] [Client thread/INFO] [AE2:C]: Pre Initialization ( started )
+flush now

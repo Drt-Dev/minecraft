@@ -1,0 +1,18 @@
+{
+  "id": "Пустыня_700,65,-500",
+  "name": "Пустыня",
+  "icon": "waypoint-normal.png",
+  "x": 700,
+  "y": 65,
+  "z": -500,
+  "r": 80,
+  "g": 29,
+  "b": 179,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

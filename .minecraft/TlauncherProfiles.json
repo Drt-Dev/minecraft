@@ -1,0 +1,15 @@
+{
+  "clientToken": "0067d720-9572-461a-80f8-9a903443b591",
+  "accounts": {
+    "e62ebfffa90346518b18d7a28d4d905b": {
+      "username": "Drt-Dev",
+      "userID": "Drt-Dev",
+      "displayName": "Drt-Dev",
+      "uuid": "e62ebfffa90346518b18d7a28d4d905b",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "e62ebfffa90346518b18d7a28d4d905b",
+  "freeAccountUUID": "e62ebfffa90346518b18d7a28d4d905b"
+}
